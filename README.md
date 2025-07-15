@@ -24,7 +24,7 @@ A full-stack application that converts between metric and imperial units. Built 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/metric-imperial-converter.git
+git clone https://github.com/nicekhan23/metric-imperial-converter.git
 cd metric-imperial-converter
 ```
 
